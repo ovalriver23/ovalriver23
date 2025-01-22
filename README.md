@@ -6,7 +6,7 @@
 
 💻 **Languages & Tools:**
 - **Languages:** C, C++, HTML, CSS
-- **Currently Exploring:** OOP principles and Python.
+- **Currently Exploring:** OOP principles, Python, and PostgreSQL.
 
 
 # 💻 Tech Stack:
