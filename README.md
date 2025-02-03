@@ -1,12 +1,12 @@
 ## Hi, I am Tuana! 👋
 📌 **About Me:**
 - 👨‍💻 Computer Engineering Student at Gebze Technical University
-- 🎯 Languages & Tools: C, C++, HTML, CSS
+- 🎯 Languages & Tools: C, C++, HTML, CSS, OOP principles
 - 🌱 Passionate about software development, constantly expanding my expertise in programming languages and web technologies.
 
 💻 **Languages & Tools:**
 - **Languages:** C, C++, HTML, CSS
-- **Currently Exploring:** OOP principles, Python, and PostgreSQL.
+- **Currently Exploring:** Javascript, Python, and PostgreSQL.
 
 
 # 💻 Tech Stack:
