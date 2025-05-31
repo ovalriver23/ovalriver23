@@ -5,7 +5,7 @@
 
 💻 **Languages & Tools:**
 - **Languages:** C, C++, HTML, CSS, Java, PostgreSQL, Python, JavaScript
-- - **Tools:** Docker, Git, OOP principles, Data Structures and Algorithms, PyQt5 Library (Python).
+- **Tools:** Docker, Git, OOP principles, Data Structures and Algorithms, PyQt5 Library (Python).
 
 
 # 💻 Tech Stack:
