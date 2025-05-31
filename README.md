@@ -5,8 +5,7 @@
 - 🌱 Passionate about software development, constantly expanding my expertise in programming languages and web technologies.
 
 💻 **Languages & Tools:**
-- **Languages:** C, C++, HTML, CSS
-- **Currently Exploring:** Javascript, Python, and PostgreSQL.
+- **Languages:** C, C++, HTML, CSS, Java, PostgreSQL
 
 
 # 💻 Tech Stack:
